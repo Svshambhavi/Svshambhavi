@@ -30,6 +30,7 @@ AI-enhanced crop selection and yield forecasting system that helps farmers make 
 ---
 
 ## 📫 Connect with Me
+
 - 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/shambhavi-s-v-7615572a9/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - 🧰 GitHub: [github.com/Svshambhavi](https://github.com/Svshambhavi)
 
