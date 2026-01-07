@@ -1,7 +1,8 @@
 # Hi, I'm Shambhavi S. V. 👋  
 
-🎓 Aspiring Front End Developer  
-🌱 Passionate about creating real-world projects using web technologies.  
+🎓 Computer Science Engineering Student  
+💻 Java & Full Stack Development Enthusiast  
+🌱 Building real-world projects using Spring Boot and Web Technologies  
 
 ---
 
@@ -14,19 +15,28 @@ A clean and responsive clone of the Amazon home page.
 Focused on layout design, navbar, product grid, footer, and styling.
 
 
-🌐 Personal Portfolio Website
+📘 Kodbook – Social Media Web Application
 
-Tech Used: HTML, CSS, JavaScript
-A simple and attractive portfolio website showcasing my skills and projects.
-Designed with clean UI and responsive layout.
+Tech Used: Java, Spring Boot, MySQL, HTML, CSS
+Kodbook is a social media web application developed as an academic project during my undergraduate studies.  
+It allows users to register, login, create posts, comment on posts, and interact with other users.
+
+This project helped me understand:
+- Backend development using Spring Boot
+- Database integration with MySQL
+- MVC architecture
+- Full-stack application flow
 
 ---
 
 ## 🧠 Skills
 
-Frontend: HTML, CSS, JavaScript
-Tools: Git, GitHub, VS Code
-Design: Responsive Web Design, UI Layouts
+**Backend:** Java, Spring Boot  
+**Frontend:** HTML, CSS, JavaScript  
+**Database:** MySQL  
+**Tools:** GitHub, VS Code  
+**Concepts:** MVC Architecture, Responsive Web Design
+
 
 ---
 
